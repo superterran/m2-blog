@@ -1,5 +1,5 @@
 {
-    "name": "superterran/m2-blog",
+    "name": "superterran/blog",
     "description": "A training module that will attempt to implement a nice blog system on the homepage",
     "type": "magento2-module",
     "version": "1.0.1",
